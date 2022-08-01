@@ -6,31 +6,31 @@ global.APIs = {
 	zenz: 'https://api.lolhuman.xyz',
 }
 
-// Udah Free Apikey Jadi Klo Mau Ubah Silahkan
+// Udah Free Apikey Jadi Klo Mau Ubah Silahkan azzbot
 global.APIKeys = {
-	'https://api.lolhuman.xyz': 'azzbot',
+	'https://api.lolhuman.xyz': 'rey2k21',
 }
 
 // Other
-global.namabot = ['AzzBot-MD']
-global.namaowner = ['YahyaGanzz']
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.packname = 'AzzBot-MD'
+global.namabot = ['Rel°Bot']
+global.namaowner = ['FarelGanzz']
+global.owner = ['6282290452317']
+global.premium = ['6282290452317']
+global.packname = 'RelBot-MD'
 global.author = 'WhatsApp•Bot'
 global.sessionName = 'Xavior'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'DoaMu Terkabulkan',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Jadikan Bot Admin Terlebih Dahulu!',
-    owner: 'Khusus Owner Bot',
-    group: 'Itu Khusus Grup Bre...!',
-    private: 'Cuma Bisa Chat Pribadi Bre...',
-    bot: 'Khusus Nomor Bot',
-    wait: 'Tunggu Sejam...',
-    endLimit: 'Limit Harian Sudah Habis, Limit Akan Direset Besok',
+    success: 'Done✓',
+    admin: 'Perintah hanya dapat di gunakan oleh admin!!',
+    botAdmin: 'Perintah tidak dapat di laksanakan. Jadikan bot sebagai*admin* agar perintah dapat di laksanakan!',
+    owner: 'Perintah Khusus!! Hanya dapat di gunakan Owner',
+    group: 'Perintah hanya dapat di gunakan di group',
+    private: 'Perintah tidak dapat di gunakan di group. silakan kirim perintah di pc (personal chat)',
+    bot: 'Khusus Bot!',
+    wait: 'Tolong beri waktu!. Bot sedang memproses..',
+    endLimit: 'Limit anda: *0*. Limit akan di riset setiap harinya.',
 }
 //Kalo Ngasih Limit Jangan Dikit Lah Bng
 global.limitawal = {
