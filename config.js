@@ -1,3 +1,4 @@
+
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -8,7 +9,7 @@ global.APIs = {
 
 // Udah Free Apikey Jadi Klo Mau Ubah Silahkan azzbot
 global.APIKeys = {
-	'https://api.lolhuman.xyz': 'rey2k21',
+	'https://api.lolhuman.xyz': 'sonelstore',
 }
 
 // Other
