@@ -2885,7 +2885,36 @@ let sewanya = `*「 SEWA EXPIRE 」*\n\n➸ *ID*: ${from}\n➸ *Expired :* ${cek
 m.reply(sewanya)
 break
 case 'sewabot':
-anu = `Bot belum di sewakan. Tapi anda dapat menambahkan bot secara gratis di group!! pengen? chat owner`
+anu = `*=SEWA BOT=*
+
+Mau nambahin bot ke group anda?
+Bisa Banget!! 
+Cukup membelih voucher sewa di bawah ini, anda dapat menambahkan bot ke group!!
+
+*=LIST VOUCHER SEWA=*
+
+*1 :* 1 Minggu (7Hari) = *5k*
+--
+*2 :* 1 Bulan (30Hari) = *10k*
+--
+*3 :* Unlimited (selamanya) = *15k*
+
+Mau tes bot dulu? Bisa banget
+1 Hari = Free *(Hanya untuk uji coba)*
+
+Rules setelah menyewa bot-
+*Wajib menambahkan owner ke group, Tidak ada spam command, Tidak ada pengembalian dari pihak kami, Bot akan keluar otomatis dari group apabila group sepi selama 5 Hari.*
+-----
+*About Questions??*
+
+👦: Online 24 jam gak?
+🤖: Bot online 24 jam apabila server heroku tidak bermasalah
+----
+*INGIN NYEWA?? Chat owner sekarang!!
+Klik tombol OWNER↓untuk mendapatkan kontak owner*
+----
+Note✍🏼:
+Owner kadang baik, biasanya di kasih Free selama 30 hari, *KADANG² AJA*`
 let btn = [{
                                 quickReplyButton: {
                                     displayText: 'OWNER',
@@ -2916,15 +2945,15 @@ let btn = [{
                         }
             break
 case 'gopay': {
-                m.reply('NOPE GOPAY: 081511480762')
+                m.reply('NOPE GOPAY: 082290452317')
             }
             break
 case 'dana': {
-                m.reply('NOPE DANA: 081511480762')
+                m.reply('NOPE DANA: 082290452317')
             }
             break
 case 'pulsa': {
-m.reply('MAAF TIDAK MENERIMA PEMBAYARAN PULSA:(')
+m.reply('082290452317')
 }
 break
 // Button List
